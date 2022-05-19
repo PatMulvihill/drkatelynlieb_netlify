@@ -5,7 +5,7 @@ title: Dr. Katelyn Lieb
 tagline: Graphic Designer
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
-  ctaText: Know more
+  ctaText: Learn more
   ctaLink: /about
 ---
 
