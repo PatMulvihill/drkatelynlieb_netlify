@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Dr. Katelyn Lieb
-tagline: Graphic Designer
+tagline: Naturopathic Physician
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: Learn more
