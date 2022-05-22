@@ -19,7 +19,7 @@ import {
   RiMediumFill,
   RiBehanceFill,
 } from "react-icons/ri"
-import { faTiktok, FaWordpress, FaVk } from "react-icons/fa"
+import { FaWordpress, FaVk } from "react-icons/fa"
 
 import Layout from "../components/layout"
 import BlogListHome from "../components/blog-list-home"
@@ -36,7 +36,7 @@ export const pageQuery = graphql`
         tagline
         featuredImage {
           childImageSharp {
-            gatsbyImageData(layout: CONSTRAINED, width: 585, height: 439)
+            gatsbyImageData(layout: CONSTRAINED, width: 518, height: 774)
           }
         }
         cta {
@@ -163,13 +163,6 @@ const HomePage = ({ data }) => {
         ) : (
           ""
         )}
-        {icons.icon === "tiktok" ? (
-          <a href={icons.url} target="_blank" aria-label="link to Wordpress" rel="noopener noreferrer">
-            <FaTiktok alt="tiktok icon" />
-          </a>
-        ) : (
-          ""
-        )}
         {icons.icon === "dribbble" ? (
           <a href={icons.url} target="_blank" aria-label="link to Dribbble" rel="noopener noreferrer">
             <RiDribbbleFill alt="Dribbble icon" />
@@ -252,7 +245,7 @@ const HomePage = ({ data }) => {
           )}
         </div>
       </div>
-      <BlogListHome data={posts} />
+      {/*<BlogListHome data={posts} />*/}
     </Layout>
   )
 }

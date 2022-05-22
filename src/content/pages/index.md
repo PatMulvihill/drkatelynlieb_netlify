@@ -2,11 +2,19 @@
 template: index-page
 slug: /
 title: Dr. Katelyn Lieb
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+tagline: Naturopathic Physician
+featuredImage: /assets/portrait.jpg
 cta:
   ctaText: Learn more
   ctaLink: /about
 ---
 
-Katelyn is a Naturopathic Physician
+Find your root cause...  
+and begin feeling your best!
+
+Focuses:
+* Thyroid Health				
+* Women’s Health		
+* Adrenal Health
+* Immune Support
+* Digestive Support	

@@ -1,9 +1,22 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Work With Me
 ---
 
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+I practice in two locations and offer virtual visits for your convenience!  
+Insurance accepted: *Anthem, Cigna, Connecticare*  
+Please call our offices for more information.
+ 
+*[Fernwood Holistic Health](https://fernwoodholistichealth.com/about-us/#Katelyn)*  
+In-person and virtual appointments - Mondays, Wednesdays, and Fridays  
+Westbrook, CT  
+(860) 661-5824  
+Or book online:  
+[Fernwood Appointment Portal](https://fernwoodholistichealth.janeapp.com/#/staff_member/9)  
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+*[Connecticut Natural Medicine](https://www.ctnatmed.com/our-doctors)*  
+In-person appointments only - Tuesdays   
+Ellington, CT  
+(860) 454-7029
+
