@@ -2,11 +2,11 @@
   "meta": {
     "title": "Dr. Katelyn Lieb",
     "titleTemplate": "%s",
-    "description": "Dr. Katelyn Lieb's personal website",
+    "description": "Dr. Katelyn Lieb's website",
     "siteUrl": "https://www.drkatelynlieb.com",
     "image": "/assets/icons8-forest-48.png",
     "iconimage": "/assets/icons8-forest-48.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
