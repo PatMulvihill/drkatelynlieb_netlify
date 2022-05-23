@@ -3,7 +3,7 @@ import { jsx } from "theme-ui"
 import React from "react"
 import { Link } from "gatsby"
 import { RiMenu3Line, RiCloseLine } from "react-icons/ri"
-import Theme from "../components/theme"
+// import Theme from "../components/theme"
 
 const MenuItems = [
   {
@@ -66,9 +66,9 @@ class Navigation extends React.Component {
         <ul>
           {listMenuItems}
           <div sx={navStyle.border}></div>
-          <div sx={navStyle.theme}>
-            <Theme />
-          </div>
+          {/*<div sx={navStyle.theme}>*/}
+          {/*  <Theme />*/}
+          {/*</div>*/}
         </ul>
       </nav>
     )

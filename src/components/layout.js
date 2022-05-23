@@ -1,46 +1,47 @@
 /** @jsx jsx */
 import { jsx } from "theme-ui"
-import { useStaticQuery, graphql } from "gatsby"
+// import useStaticQuery from "gatsby"
+// import graphql from "gatsby"
 
 import Header from "./header"
-import Logo from "./logo"
+// import Logo from "./logo"
 import Navigation from "./navigation"
 
 import "../assets/scss/style.scss"
 // import Footer from "./footer"
-import Theme from "../components/theme"
+// import Theme from "../components/theme"
 // import Search from "../components/search"
 
-const query = graphql`
-  query LayoutQuery {
-    site {
-      siteMetadata {
-        siteTitle: title
-      }
-    }
-    siteSearchIndex {
-      index
-    }
-  }
-`
+// const query = graphql`
+//   query LayoutQuery {
+//     site {
+//       siteMetadata {
+//         siteTitle: title
+//       }
+//     }
+//     siteSearchIndex {
+//       index
+//     }
+//   }
+// `
 
 const Layout = ({ children, className, props }) => {
-  const { site, siteSearchIndex } = useStaticQuery(query)
-  const { siteTitle } = site.siteMetadata
+  // const { site, siteSearchIndex } = useStaticQuery(query)
+  // const { siteTitle } = site.siteMetadata
 
   return (
     <div className="primary-container">
       <Header>
-        <Logo title={siteTitle} />
+        {/*<Logo title={siteTitle} />*/}
         <div sx={layoutStyle.nav}>
-          <div sx={{ display: ["flex", "flex", "flex", "none"] }}>
+          {/*<div sx={{ display: ["flex", "flex", "flex", "none"] }}>*/}
             {/*<Search searchIndex={siteSearchIndex.index} />*/}
-          </div>
+          {/*</div>*/}
           <Navigation />
         </div>
         <div sx={layoutStyle.appearance}>
           {/*<Search searchIndex={siteSearchIndex.index} />*/}
-          <Theme />
+          {/*<Theme />*/}
         </div>
       </Header>
       <main className={"container " + className}>{children}</main>
