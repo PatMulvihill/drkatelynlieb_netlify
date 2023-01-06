@@ -29,6 +29,8 @@ ConnectiCare
 
 *We very strongly recommend all patients call their insurance company before their ﬁrst visit to conﬁrm they are covered.*
 
+Due to health insurance restrictions, new telehealth patients must be physically located in the state of Connecticut at time of their appointment. If you are located out of state you may schedule a telehealth appointment out of pocket OR you may use your insurance if you physically visit our office. We're sorry for the inconvenience! 
+
 If your insurance company is not on our list but your plan covers naturopathic office visits, we can give you a superbill to send in to your insurance company so you can get out of network reimbursement. This means you will pay at the time of service for your visit and we will provide you with the paperwork to send to your insurance provider. They will then reimburse you directly for all, or a portion of you visit, depending on your out of network coverage. 
 
 **Rates for patients paying out of pocket:**
