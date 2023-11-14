@@ -33,12 +33,12 @@ Due to health insurance restrictions, new telehealth patients must be physically
 
 If your insurance company is not on our list but your plan covers naturopathic office visits, we can give you a superbill to send in to your insurance company so you can get out of network reimbursement. This means you will pay at the time of service for your visit and we will provide you with the paperwork to send to your insurance provider. They will then reimburse you directly for all, or a portion of you visit, depending on your out of network coverage. 
 
+
+
 **Rates for patients paying out of pocket:**
 
-First office visit (60 mins): $325
+Pricing will increase as of February 1, 2024 to the following:
 
-Return office visit (30 mins): $160
+N﻿ew patient visit (60 minutes) $425
 
-Return office visit (45 mins): $220
-
-Return office visit (60 mins): $299
+R﻿eturn patient visit (30 minutes) $200
